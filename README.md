@@ -113,6 +113,10 @@ Each domain (customers, products, pricing) has its own orchestration notebook th
 - Log every pipeline run to a Delta audit table (run_id, layer, table, rows_in, rows_out, duration, status)
 - Migrate to Delta Live Tables for declarative pipeline definition
 
+
+<img width="1979" height="1101" alt="project_architecture (1)" src="https://github.com/user-attachments/assets/69b7b29a-3e9a-42c0-9013-26d1ff1c2dad" />
+
+
 ## About
 
 Portfolio project by **Jat Lopez** — BS Information Systems student at the University of Santo Tomas, focused on data engineering, data analytics, and BI.
